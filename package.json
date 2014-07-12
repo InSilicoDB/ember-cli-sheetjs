@@ -1,6 +1,6 @@
 {
   "name": "ember-cli-sheetjs",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "ember-cli addon for including sheetjsx",
   "main": "index.js",
   "ember-addon": {
