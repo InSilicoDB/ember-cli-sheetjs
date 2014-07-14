@@ -1,7 +1,7 @@
 {
   "name": "ember-cli-sheetjs",
   "version": "0.0.2",
-  "description": "ember-cli addon for including sheetjsx",
+  "description": "ember-cli addon for including sheetjs",
   "main": "index.js",
   "ember-addon": {
     "main": "index.js"
@@ -28,9 +28,9 @@
   },
   "homepage": "https://bitbucket.org/bguiz/ember-cli-sheetjs",
   "dependencies": {
-    "xlsx": "^0.7.7"
+    "xlsx": "^0.7.7",
+    "broccoli-merge-trees": "^0.1.4"
   },
   "devDependencies": {
-    "broccoli-merge-trees": "^0.1.4"
   }
 }
