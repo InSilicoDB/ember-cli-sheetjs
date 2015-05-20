@@ -28,7 +28,7 @@
   },
   "homepage": "https://bitbucket.org/bguiz/ember-cli-sheetjs",
   "dependencies": {
-    "xlsx": "https://github.com/InSilicoDB/js-xlsx#0.8.1",
+    "xlsx": "https://github.com/InSilicoDB/js-xlsx/tarball/master",
     "broccoli-merge-trees": "^0.1.4"
   },
   "devDependencies": {
